@@ -1,26 +1,26 @@
 :root {
-  --bg: #f4f8f5;
+  --bg: #f3f8fc;
   --surface: #ffffff;
-  --ink: #12261a;
-  --ink-2: #4a5f52;
-  --line: #dbe7df;
-  --accent: #2f9e55;
-  --accent-ink: #0f4d25;
-  --accent-soft: #dcf2e3;
+  --ink: #0f1e2e;
+  --ink-2: #4a5a6b;
+  --line: #d8e4ef;
+  --accent: #0077d9;
+  --accent-ink: #003d73;
+  --accent-soft: #dcefff;
   --radius: 20px;
   color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0d1611;
-    --surface: #15221a;
-    --ink: #e8f2eb;
-    --ink-2: #a3b8aa;
-    --line: #24362b;
-    --accent: #4cc477;
-    --accent-ink: #b6ecc8;
-    --accent-soft: #183823;
+    --bg: #0b1520;
+    --surface: #122130;
+    --ink: #e6f1fb;
+    --ink-2: #9fb3c6;
+    --line: #213447;
+    --accent: #4db8ff;
+    --accent-ink: #bfe4ff;
+    --accent-soft: #11314d;
   }
 }
 
@@ -64,7 +64,7 @@ a:hover { text-decoration: underline; }
 
 /* Hero */
 .hero { padding: 72px 0 56px; text-align: center; }
-.hero .icon { width: 128px; height: 128px; border-radius: 28px; box-shadow: 0 18px 40px rgba(31, 110, 60, .25); }
+.hero .icon { width: 128px; height: 128px; border-radius: 28px; box-shadow: 0 18px 40px rgba(0, 110, 220, .28); }
 .hero h1 { font-size: clamp(40px, 7vw, 64px); line-height: 1.05; margin: 28px 0 12px; letter-spacing: -.02em; }
 .hero .lead { font-size: clamp(18px, 2.4vw, 22px); color: var(--ink-2); max-width: 620px; margin: 0 auto 32px; }
 
