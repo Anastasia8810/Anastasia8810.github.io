@@ -1,0 +1,33 @@
+# Languages in switcher order. root — where that language's pages live.
+languages: [en, sv, ru]
+
+en:
+  name: English
+  root: /
+  support: Support
+  privacy: Privacy
+  terms: Terms
+  download: Download on the App Store
+  soon: Coming soon to the App Store
+  updated: Last updated
+  rights: All rights reserved.
+sv:
+  name: Svenska
+  root: /sv/
+  support: Support
+  privacy: Integritet
+  terms: Villkor
+  download: Hämta i App Store
+  soon: Kommer snart till App Store
+  updated: Senast uppdaterad
+  rights: Alla rättigheter förbehållna.
+ru:
+  name: Русский
+  root: /ru/
+  support: Поддержка
+  privacy: Конфиденциальность
+  terms: Условия
+  download: Загрузить в App Store
+  soon: Скоро в App Store
+  updated: Обновлено
+  rights: Все права защищены.

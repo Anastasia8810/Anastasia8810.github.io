@@ -1,0 +1,20 @@
+title: Baller
+description: Basketball workouts with a voice spotter that hears you.
+author: Anastazia Lindström
+email: alindston@proton.me
+url: "https://anastasia8810.github.io"
+baseurl: ""
+lang: en
+
+# App Store link. Leave empty until the app is published: the button shows "Coming soon".
+app_store_url: ""
+
+# Date shown on the legal pages.
+legal_updated: 2026-10-20
+
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
