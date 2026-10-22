@@ -15,7 +15,7 @@ Need help, found a bug or have an idea? Write to [{{ site.email }}](mailto:{{ si
 
 1. Check that **Microphone** and **Speech Recognition** are allowed: **Settings → Baller**.
 2. Speak clearly and use a command: “start workout”, “next exercise”, “pause”, “resume”, “repeat”, “finish”.
-3. The spotter understands English and Russian. In a noisy gym, keep your iPhone closer or use headphones with a microphone.
+3. The spotter understands English. In a noisy gym, keep your iPhone closer or use headphones with a microphone.
 
 ### How do I add a player or a coach to my team?
 

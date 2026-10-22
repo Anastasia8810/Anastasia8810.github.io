@@ -15,7 +15,7 @@ Behöver du hjälp, har du hittat en bugg eller har du en idé? Skriv till [{{ s
 
 1. Kontrollera att **Mikrofon** och **Taligenkänning** är tillåtna: **Inställningar → Baller**.
 2. Tala tydligt och använd ett kommando: ”start workout”, ”next exercise”, ”pause”, ”resume”, ”repeat”, ”finish”.
-3. Spottern förstår engelska och ryska. I en bullrig hall – håll din iPhone närmare eller använd hörlurar med mikrofon.
+3. Spottern förstår svenska. I en bullrig hall – håll din iPhone närmare eller använd hörlurar med mikrofon.
 
 ### Hur lägger jag till en spelare eller tränare i laget?
 
